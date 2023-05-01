@@ -4,7 +4,7 @@
   <parent>
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
-    <version>3</version>
+    <version>29</version>
   </parent>
   <organization>
     <name>Apache MINA Project</name>
