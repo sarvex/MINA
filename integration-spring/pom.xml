@@ -28,7 +28,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-beans</artifactId>
-      <version>6.2.5</version>
+      <version>6.2.12</version>
     </dependency>
 
     <dependency>
